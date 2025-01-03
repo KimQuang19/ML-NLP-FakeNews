@@ -34,6 +34,7 @@ We also compared it with other models such as Navie Bayes, KNN. The results show
 |85.62%|96.23%|55.6%|
 
 Here is the comparison chart:
+
 ![example](bieudo.jpg)
 ## License
 This project is licensed under the **MIT License**.
