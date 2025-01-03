@@ -15,7 +15,7 @@ This project uses the **SVM (Support Vector Machine)** machine learning model to
 + Data Preprocessing: Conduct text preprocessing including removing stop words, text normalization, word segmentation (tokenization) and converting text into feature vectors.
 + SVM Classification: Using SVM model to classify articles into "real news" and "fake news". The model is trained on the labeled dataset.
 + Model Evaluation: Evaluate the model's performance through metrics such as Accuracy, Precision, Recall, F1-Score.
-## Technology used
+## Technology
 + Programming language: Python
 + Machine learning library: scikit-learn (SVM), pandas, numpy
 + Text preprocessing: nltk
